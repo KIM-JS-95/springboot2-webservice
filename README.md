@@ -10,10 +10,10 @@
 ### ScreenShot
 [1] 상단: 게시판 로그인 서비스
     하단: crud 게시판
-![1.png](springboot2-webservice/.image/1.png)
+![1.png](.image/1.png)
 
 [2] 로그인 서비스(Google && Naver 즉시 연동 가능)
-![Content_View](springboot2-webservice/.image/Content_View.jpg)
+![Content_View](.image/Content_View.jpg)
 
 [3] 예시) Google 로그인 페이지
-![Login.jpg](springboot2-webservice/.image/Login.jpg)
+![Login.jpg](.image/Login.jpg)
